@@ -149,7 +149,7 @@ footer {
 
 #aboutpic {
   height: 30%;
-  display: inline;
+  /* display: inline; */
   float: left;
   padding: 15px;
 }
@@ -159,7 +159,6 @@ footer {
   width: 200px;
   height: 250px;
   margin: 40 45 40 45;
-  display: inline;
   position: relative;
   border: black 1px solid;
 }
