@@ -145,15 +145,12 @@ footer {
   color: white;
 }
 
-/* ABOUT ABOUT ABOUT ABOUT ABOUT ABOUT */
 
 #aboutpic {
   height: 30%;
-  /* display: inline; */
   float: left;
   padding: 15px;
 }
-/* PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO PORTFOLIO */
 
 .portfoliopics {
   width: 200px;
@@ -169,8 +166,6 @@ footer {
   right: 252;
   background-color: #4aaaa5;
   color: white;
-  /* padding-left: 40px; */
-  /* padding-right: 40px; */
   padding: 15 59 15 59;
   text-align: center;
 }
@@ -183,8 +178,6 @@ footer {
   height: 30px;
   background-color: #4aaaa5;
   color: white;
-  /* padding-left: 20px; */
-  /* padding-right: 20px; */
   padding: 15 55 15 55px;
   text-align: center;
 }
@@ -195,8 +188,6 @@ footer {
   right: 252;
   background-color: #4aaaa5;
   color: white;
-  /* padding-left: 40px; */
-  /* padding-right: 40px; */
   padding: 15 75 15 75;
   text-align: center;
 }
@@ -208,8 +199,6 @@ footer {
   top: -105;
   background-color: #4aaaa5;
   color: white;
-  /* padding-left: 20px; */
-  /* padding-right: 20px; */
   padding: 15 24 15 24;
   text-align: center;
 }
@@ -220,8 +209,6 @@ footer {
   top: -100;
   background-color: #4aaaa5;
   color: white;
-  /* padding-left: 20px; */
-  /* padding-right: 20px; */
   padding: 15 20 15 20px;
   text-align: center;
 }
